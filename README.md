@@ -7,7 +7,7 @@ An introduction of Crowuino-V1.1
 Pull requests can only be opened if there are differences between your branch and the upstream branch. You can specify which branch you'd like to merge your changes into when you create your pull request.
 
 Changing the branch range and destination repository
-
+https://help.github.com/assets/images/help/pull_requests/123.png
 By default, pull requests are based on the parent repository's default branch.
 
 If the default parent repository isn't correct, you can change both the parent repository and the branch with the drop-down lists. You can also swap your head and base branches with the drop-down lists to establish diffs between reference points. References here must be branch names in your GitHub repository.
@@ -53,3 +53,4 @@ GitHub Enterprise 2.10
 GitHub Enterprise 2.9
 GitHub Enterprise 2.8
 GitHub Enterprise 2.7
+https://github.com/Seeed-Studio/AzureGroveKit/raw/master/physical.jpg
